@@ -120,11 +120,3 @@ It does not constitute financial advice.
 👤 Author
 
 Built as part of a data science and financial analytics portfolio.
-
-
----
-
-
-
-```text
-THEORTHMAN
